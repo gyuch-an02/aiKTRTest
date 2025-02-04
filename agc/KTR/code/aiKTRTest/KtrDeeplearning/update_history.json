@@ -1,0 +1,115 @@
+{
+  "0": {
+    "date": "20010101120030",
+    "number skills": 0,
+    "val_auc": 0.0,
+    "train data": "",
+    "model path": ""
+  },
+  "1": {
+    "date": "20220101123456",
+    "number skills": 25716,
+    "val_auc": 0.9278058132879382,
+    "train data": "~/kde/PT/data/sjhg_update/at_20220101123456/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20220101123456.csv",
+    "number of data": 75521297,
+    "number of cumulated data": 75521297,
+    "model path": "model_at_20220101123456/KTRv1_model_final_20220101123456.pt"
+  },
+  "2": {
+    "date": "20221201123456",
+    "number skills": 32517,
+    "val_auc": 0.929200142712902,
+    "train data": "~/kde/PT/data/sjhg_update/at_20221201123456/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20221201123456.csv",
+    "number of data": 55352799,
+    "number of cumulated data": 130874096,
+    "model path": "model_at_20221201123456/KTRv1_model_final_20221201123456.pt"
+  },
+  "3": {
+    "date": "20230501123456",
+    "number skills": 34209,
+    "val_auc": 0.9318368288847058,
+    "train data": "~/kde/PT/data/sjhg_update/at_20230501123456/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20230501123456.csv",
+    "number of data": 30970100,
+    "number of cumulated data": 161844196,
+    "model path": "model_at_20230501123456/KTRv1_model_final_20230501123456.pt"
+  },
+  "4": {
+    "date": "20231025123456",
+    "number skills": 35820,
+    "val_auc": 0.9346854953932542,
+    "train data": "~/kde/PT/data/sjhg_update/at_20231025123456/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20231025123456.csv",
+    "number of data": 32778726,
+    "number of cumulated data": 194622922,
+    "model path": "model_at_20231025123456/KTRv1_model_final_20231025123456.pt"
+  },
+  "5": {
+    "date": "20231221",
+    "number skills": 35956,
+    "val_auc": 0.9357440957362259,
+    "train data": "~/kde/PT/data/sjhg_update/at_20231221/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20231221.csv",
+    "number of data": 11462267,
+    "number of cumulated data": 206085189,
+    "model path": "model_at_20231221/KTRv1_model_final_20231221.pt",
+    "best threshold": 1.2202824
+  },
+  "6": {
+    "date": "20240225",
+    "number skills": 36189,
+    "val_auc": 0.9364117641525108,
+    "train data": "~/kde/PT/data/sjhg_update/at_20240225/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20240225.csv",
+    "number of data": 15325886,
+    "number of cumulated data": 221411075,
+    "model path": "model_at_20240225/KTRv1_model_final_20240225.pt",
+    "best threshold": 1.1843260526657104
+  },
+  "7": {
+    "date": "20240422",
+    "number skills": 36271,
+    "val_auc": 0.9372777573185995,
+    "train data": "~/kde/PT/data/sjhg_update/at_20240422/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20240422.csv",
+    "number of data": 10664905,
+    "number of cumulated data": 232075980,
+    "model path": "model_at_20240422/KTRv1_model_final_20240422.pt",
+    "best threshold": 1.1647142171859741
+  },
+  "8": {
+    "date": "20240623",
+    "number skills": 36321,
+    "val_auc": 0.9375230552150196,
+    "train data": "~/kde/PT/data/sjhg_update/at_20240623/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20240623.csv",
+    "number of data": 9526850,
+    "number of cumulated data": 241602830,
+    "model path": "model_at_20240623/KTRv1_model_final_20240623.pt",
+    "best threshold": 1.1952528953552246
+  },
+  "9": {
+    "date": "20240819",
+    "number skills": 36506,
+    "val_auc": 0.9379775958598295,
+    "train data": "~/kde/PT/data/sjhg_update/at_20240819/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20240819.csv",
+    "number of data": 8562189,
+    "number of cumulated data": 250165019,
+    "model path": "model_at_20240819/KTRv1_model_final_20240819.pt",
+    "best threshold": 1.1977295875549316
+  },
+  "10": {
+    "date": "20241013",
+    "number skills": 36580,
+    "val_auc": 0.9383094212941718,
+    "train data": "~/kde/PT/data/sjhg_update/at_20241013/all_learning_seq.csv",
+    "problem set": "~/kde/PT/code/aiKTR/KtrDeeplearning/problem_set/problem_set_at_20241013.csv",
+    "number of data": 7853860,
+    "number of cumulated data": 258018879,
+    "model path": "model_at_20241013/KTRv1_model_final_20241013.pt",
+    "best threshold": 1.178704023361206
+  }
+}
